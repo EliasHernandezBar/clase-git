@@ -1,2 +1,2 @@
-# clase-git
-Repositorio de ejemplo de una clase de git
+# Clase de Git
+Lo uqe estoy aprendiendo de Git y Github
