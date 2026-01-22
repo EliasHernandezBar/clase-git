@@ -1,2 +1,2 @@
 # Clase de Git
-Lo uqe estoy aprendiendo de Git y Github
+Lo que estoy aprendiendo de Git y Github
