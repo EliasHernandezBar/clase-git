@@ -1,1 +1,1 @@
-Color favorito: rojo
+Color favorito: verde
