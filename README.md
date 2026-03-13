@@ -8,4 +8,4 @@ Mis objetivos con este ejercicio
 
 • Trabajar en GitHub
 
-• Comprender el trbajo con ramas
+• Comprender el trabajo con ramas
