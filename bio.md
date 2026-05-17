@@ -1,2 +1,2 @@
 ##Bio
-Hola, soy ... y estoy aprendiendo Git.
+Hola, soy Elías y estoy aprendiendo Git.
